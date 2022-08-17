@@ -1,5 +1,5 @@
 package LogicalProgramme;
-
+// logical programes changes
 import java.util.Scanner;
 
 public class Addition1 {
