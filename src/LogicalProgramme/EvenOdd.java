@@ -1,5 +1,5 @@
 package LogicalProgramme;
-
+//even odd my changes
 import java.util.Scanner;
 
 public class EvenOdd {
