@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ArmstrongNumber {
 
 	public static void main(String[] args) {
+		//Take input from user
 		System.out.println("Enter the nummber");
 		Scanner sc=new Scanner(System.in);
 		int n = sc.nextInt();
