@@ -8,6 +8,7 @@ public class SP2 {
 //          ***
 //           **
 //            *   
+		//row-->5
 		int space=0;
 		int star=5;
 	for(int i=1;i<=5;i++)
